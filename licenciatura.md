@@ -1,4 +1,4 @@
-# Un resumen de lo que vi en la Lic. de Ciencias Matematicas. 2007 - 2012
+# Mi Lic. de Ciencias Matematicas. 2007 - 2012
 
 ## Mis preferidas
 
