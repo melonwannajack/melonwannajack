@@ -101,16 +101,6 @@ _7.5 ECTS_
 
 base formal de la integracion moderna y la probabilidad. abstracta, pero muy estructural.
 
-### Optimizacion Combinatoria y Teoria de Grafos *2011-12*
-_7.5 ECTS_
-
-problemas discretos, redes y optimizacion. bastante cercano a problemas reales y computacionales.
-
-### Modelos de Gestion y Produccion *2011-12*
-_6 ECTS_
-
-uso de modelos matematicos en procesos productivos. enfoque mas aplicado y orientado a decision.
-
 ---
 
 ## Datos & Information
@@ -135,6 +125,11 @@ _7.5 ECTS_
 
 modelos para tomar decisiones optimas bajo restricciones. Historia del Simplex.
 
+### Programación matemática I *2010-11*
+_7.5 ECTS_
+
+tecnicas de implementacion de investigacion operativa con ejemplos de aplicacion en empresa (Fortran).
+
 ### Programación matemática II *2010-11*
 _7.5 ECTS_
 
@@ -149,6 +144,16 @@ estimacion y contraste de hipotesis.
 _9 ECTS_
 
 metodos computacionales aplicados a sistemas dinamicos.
+
+### Optimizacion Combinatoria y Teoria de Grafos *2011-12*
+_7.5 ECTS_
+
+problemas discretos, redes y optimizacion. bastante cercano a problemas reales y computacionales.
+
+### Modelos de Gestion y Produccion *2011-12*
+_6 ECTS_
+
+uso de modelos matematicos en procesos productivos. enfoque mas aplicado y orientado a decision.
 
 ---
 
