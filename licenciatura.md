@@ -58,14 +58,15 @@ aplicacion de matematicas a medir la tierra y posicionarse. conecta teoria con m
 
 como estructurar y transmitir ideas matematicas. enfoque en explicacion, claridad y didactica.
 
-### Practicas de Enseñanza (1500h) *2011-12*
-
-experiencia real enseñando. entender que saber algo y explicarlo bien son cosas distintas.
-
 ### Geometría elemental desde un punto de vista superior (75h) *2009-10*
 _Prof: Francisco Javier Gállego Rodrigo_
 
 relectura de la geometria clasica con herramientas mas avanzadas. reinterpretar conceptos conocidos desde una perspectiva mas estructural y abstracta, conectando intuicion con formalismo.
+
+### Practicas de Enseñanza (1500h) *2011-12*
+
+experiencia real enseñando. entender que saber algo y explicarlo bien son cosas distintas.
+Practicas realizadas en el IES Eijo y Garay, Madrid.
 
 ---
 
@@ -181,7 +182,11 @@ uso de herramientas algebraicas para estudiar espacios. potente pero exigente. (
 
 ### Delegacion de Alumnos de la Facultad *2009-11*
 
+
+
 ### Presidente Club de Montana de Biologia *2008-11*
+
+
 
 ### Nuevas Tecnologias Sanitarias en Seguridad y Defensa (500h) *2011-12*
 
