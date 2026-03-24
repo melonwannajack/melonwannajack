@@ -1,348 +1,399 @@
-# Robot / 3D / Maker / Hacker — Plan de estudios vivo
+# Hacker Builder — Plan de estudios profundo  
 
-## 0. Meta-capa: qué significa saber construir sistemas físicos
- 
-- convertir una idea en objeto funcional
-- integrar hardware + software + mecánica
-- iterar rápidamente (build → test → fix)
-- trabajar con sistemas imperfectos
-- diagnosticar fallos en múltiples niveles
+## 0. Meta-capa: qué significa ser hacker builder
 
----
-
-## 1. Mentalidad maker (lo más importante)
-
-### 1.1. Principios
-- construir primero, optimizar después
-- iterar rápido
-- fallar barato
-- entender haciendo
-
-### 1.2. Anti-patrones
-- esperar diseño perfecto
-- sobreplanificar
-- no testear temprano
-
-### 1.3. Qué debería saber hacer
-- prototipar en horas, no semanas
-- aceptar soluciones “suficientemente buenas”
-- aprender de errores físicos
+- entender sistemas en cualquier nivel (bits → infra → humano)
+- construir desde cero y también desmontar
+- moverse entre hardware, software y red sin fricción
+- detectar vulnerabilidades estructurales
+- iterar rápido en sistemas reales imperfectos
 
 ---
 
-## 2. Electrónica básica (núcleo físico)
+# BLOQUE 1 — Modelo mental base
 
-### 2.1. Fundamentos
-- voltaje, corriente, resistencia
-- ley de Ohm
-- potencia
+## Núcleo
 
-### 2.2. Componentes
-- resistencias
-- condensadores
-- diodos
-- transistores
-- reguladores
+- todo es sistema
+- todo sistema tiene:
+  - inputs
+  - transformación
+  - outputs
+  - estado
+  - fallos
 
-### 2.3. Circuitos
-- serie / paralelo
-- filtrado
-- alimentación
+## Principios
 
-### 2.4. Qué debería saber hacer
-- leer esquemas
-- evitar quemar componentes
-- diseñar circuitos simples
-
----
-
-## 3. Microcontroladores
-
-### 3.1. Plataformas
-- Arduino
-- ESP32
-- Raspberry Pi (como híbrido)
-
-### 3.2. Interfaces
-- GPIO
-- PWM
-- ADC
-- I2C / SPI / UART
-
-### 3.3. Programación embebida
-- loops
-- interrupciones
-- timing
-
-### 3.4. Qué debería saber hacer
-- leer sensores
-- controlar actuadores
-- gestionar tiempo real básico
-
----
-
-## 4. Sensores
-
-### 4.1. Tipos
-- temperatura
-- presión
-- distancia (ultrasonido, lidar)
-- IMU (acelerómetro, giroscopio)
-- cámaras
-
-### 4.2. Problemas reales
-- ruido
-- calibración
-- latencia
-
-### 4.3. Qué debería saber hacer
-- interpretar datos imperfectos
-- filtrar señales
-- elegir sensor adecuado
-
----
-
-## 5. Actuadores
-
-### 5.1. Tipos
-- motores DC
-- servos
-- stepper motors
-- solenoides
-
-### 5.2. Control
-- PWM
-- drivers
-
-### 5.3. Qué debería saber hacer
-- mover sistemas físicos con precisión
-- controlar velocidad/posición
-- entender limitaciones mecánicas
-
----
-
-## 6. Mecánica y diseño físico
-
-### 6.1. Conceptos
-- fuerzas
-- torque
-- fricción
-- tolerancias
-
-### 6.2. Diseño
-- estructuras
-- uniones
-- transmisión (engranajes, correas)
-
-### 6.3. Qué debería saber hacer
-- diseñar piezas funcionales
-- evitar fallos mecánicos básicos
-- pensar en ensamblaje
-
----
-
-## 7. Impresión 3D y fabricación
-
-### 7.1. Tecnologías
-- FDM
-- SLA (conceptual)
-
-### 7.2. Diseño
-- CAD (Fusion 360, etc.)
-- tolerancias
-- soportes
-
-### 7.3. Qué debería saber hacer
-- diseñar piezas imprimibles
-- iterar rápido
-- ajustar diseños tras fallo
-
----
-
-## 8. Software para sistemas físicos
-
-### 8.1. Control
-- loops de control
-- PID básico
-
-### 8.2. Arquitectura
-- estados
-- eventos
-- modularidad
-
-### 8.3. Qué debería saber hacer
-- escribir código robusto para hardware
-- manejar errores físicos
-- sincronizar sensores y actuadores
-
----
-
-## 9. Robótica
-
-### 9.1. Fundamentos
-- cinemática
+- abstracción por capas
+- descomposición
+- observabilidad
 - control
-- navegación
 
-### 9.2. Sistemas
-- robots móviles
-- brazos robóticos
+## Aplicaciones
 
-### 9.3. Qué debería saber hacer
-- integrar sensores + control + movimiento
-- resolver problemas de orientación
-- trabajar con feedback
+- analizar cualquier sistema (web, físico, red) como pipeline  
+- detectar puntos críticos  
+- identificar dónde intervenir con mínimo esfuerzo  
 
 ---
 
-## 10. Energía y alimentación
+# BLOQUE 2 — Computación fundamental
 
-### 10.1. Fuentes
-- baterías
-- fuentes externas
+## Núcleo
 
-### 10.2. Gestión
-- voltaje
-- consumo
-- eficiencia
+- binario
+- representación de datos
+- memoria
+- CPU
+- instrucciones
 
-### 10.3. Qué debería saber hacer
-- dimensionar energía
-- evitar fallos eléctricos
-- gestionar autonomía
+## Aplicaciones
 
----
-
-## 11. Comunicación
-
-### 11.1. Protocolos
-- serial
-- WiFi
-- Bluetooth
-
-### 11.2. Sistemas
-- comunicación entre dispositivos
-- control remoto
-
-### 11.3. Qué debería saber hacer
-- conectar sistemas
-- depurar comunicación
-- trabajar con latencia
+- entender cómo se ejecuta un programa  
+- analizar memoria (stack, heap)  
+- razonar sobre eficiencia real  
+- detectar bugs de bajo nivel  
 
 ---
 
-## 12. Debugging físico (clave real)
+# BLOQUE 3 — Sistemas operativos
 
-### 12.1. Niveles
-- hardware
-- firmware
-- software
-- mecánico
+## Núcleo
 
-### 12.2. Herramientas
-- multímetro
-- logs
-- pruebas aisladas
+- procesos
+- hilos
+- memoria virtual
+- scheduling
+- sistema de archivos
 
-### 12.3. Qué debería saber hacer
-- aislar fallos
-- probar hipótesis
-- no culpar siempre al código
+## Aplicaciones
+
+- depurar procesos  
+- analizar consumo de recursos  
+- entender concurrencia  
+- interactuar con el kernel (nivel usuario)  
 
 ---
 
-## 13. Integración de sistemas
+# BLOQUE 4 — Redes
 
-### 13.1. Problema real
-- todo funciona por separado, falla junto
+## Núcleo
 
-### 13.2. Estrategias
-- integración progresiva
+- TCP/IP
+- routing
+- DNS
+- HTTP
+- sockets
+
+## Aplicaciones
+
+- capturar tráfico  
+- analizar protocolos  
+- construir servidores desde cero  
+- detectar fallos de comunicación  
+
+---
+
+# BLOQUE 5 — Programación (multi-paradigma)
+
+## Núcleo
+
+- bajo nivel (C)
+- scripting (Python)
+- concurrente
+- funcional (idea)
+
+## Aplicaciones
+
+- escribir herramientas rápidas  
+- manipular datos en tiempo real  
+- construir servicios completos  
+- automatizar sistemas  
+
+---
+
+# BLOQUE 6 — Ingeniería de software real
+
+## Núcleo
+
+- arquitectura
 - modularidad
-- testing por partes
+- testing
+- observabilidad
 
-### 13.3. Qué debería saber hacer
-- construir sistemas completos
-- gestionar complejidad
-- mantener control del sistema
+## Aplicaciones
 
----
-
-## 14. Seguridad y fiabilidad
-
-- protección eléctrica
-- fallos mecánicos
-- redundancia
-
-Qué debería saber hacer:
-- evitar daños
-- diseñar sistemas seguros
+- construir sistemas mantenibles  
+- desplegar servicios reales  
+- instrumentar logs y métricas  
+- debuggear en producción  
 
 ---
 
-## 15. Proyectos (núcleo real)
+# BLOQUE 7 — Seguridad ofensiva (hacking real)
 
-### 15.1. Nivel inicial
-- sensor + LED
-- motor control básico
+## Núcleo
 
-### 15.2. Nivel intermedio
-- robot móvil simple
-- sistema automatizado
+- superficie de ataque
+- vulnerabilidades
+- explotación
+- post-explotación
 
-### 15.3. Nivel avanzado
-- sistema autónomo
-- integración cloud / datos
+## Aplicaciones
+
+- analizar sistemas para encontrar fallos  
+- explotar vulnerabilidades comunes  
+- entender vectores de ataque  
+- simular ataques controlados  
 
 ---
 
-## 16. Specialization Tracks
+# BLOQUE 8 — Seguridad defensiva
 
-### 16.1. Robotics
-- navegación
-- control avanzado
+## Núcleo
 
-### 16.2. IoT
-- sensores distribuidos
-- cloud
+- hardening
+- detección
+- respuesta
+- monitoreo
 
-### 16.3. Fabricación
-- diseño mecánico
-- impresión
+## Aplicaciones
 
-### 16.4. Embedded systems
-- firmware
+- proteger sistemas  
+- detectar intrusiones  
+- responder a incidentes  
+- diseñar sistemas robustos  
+
+---
+
+# BLOQUE 9 — Reverse engineering
+
+## Núcleo
+
+- binarios
+- ensamblador
+- descompilación
+
+## Aplicaciones
+
+- analizar programas sin código fuente  
+- entender comportamiento oculto  
+- modificar binarios  
+- detectar malware  
+
+---
+
+# BLOQUE 10 — Sistemas distribuidos
+
+## Núcleo
+
+- consistencia
+- disponibilidad
+- partición (CAP)
+- replicación
+
+## Aplicaciones
+
+- diseñar sistemas escalables  
+- manejar fallos de red  
+- sincronizar datos  
+- construir servicios resilientes  
+
+---
+
+# BLOQUE 11 — Infraestructura y cloud
+
+## Núcleo
+
+- contenedores
+- orquestación
+- redes cloud
+- CI/CD
+
+## Aplicaciones
+
+- desplegar sistemas completos  
+- automatizar infraestructura  
+- escalar servicios  
+- monitorizar sistemas distribuidos  
+
+---
+
+# BLOQUE 12 — Hardware hacking
+
+## Núcleo
+
+- microcontroladores
+- buses (I2C, SPI)
+- sensores
+- electrónica básica
+
+## Aplicaciones
+
+- construir dispositivos físicos  
+- leer señales reales  
+- integrar hardware + software  
+- debuggear sistemas físicos  
+
+---
+
+# BLOQUE 13 — Embedded systems
+
+## Núcleo
+
 - tiempo real
+- firmware
+- control de hardware
+
+## Aplicaciones
+
+- programar dispositivos  
+- optimizar recursos limitados  
+- manejar interrupciones  
+- diseñar sistemas autónomos  
 
 ---
 
-## 17. Self-assessment
+# BLOQUE 14 — Sistemas de datos
 
-- 0: teoría
-- 1: tutoriales
-- 2: proyectos guiados
-- 3: proyectos propios simples
-- 4: integración básica
-- 5: sistemas funcionales
-- 6: diagnóstico avanzado
-- 7: diseño completo autónomo
+## Núcleo
 
----
+- bases de datos
+- indexación
+- consultas
+- pipelines
 
-## 18. Evidence
+## Aplicaciones
 
-- proyectos físicos
-- prototipos
-- iteraciones documentadas
-- fallos analizados
-- sistemas funcionando en entorno real
+- diseñar sistemas de datos  
+- optimizar consultas  
+- procesar grandes volúmenes  
+- construir ETL  
 
 ---
 
-## 19. Missing areas
+# BLOQUE 15 — Observabilidad
 
-- control avanzado (PID tuning real)
-- electrónica más profunda
-- sistemas distribuidos físicos
-- robótica autónoma avanzada
-- optimización mecánica real
+## Núcleo
+
+- logs
+- métricas
+- tracing
+
+## Aplicaciones
+
+- entender sistemas complejos  
+- detectar fallos invisibles  
+- analizar comportamiento real  
+- mejorar rendimiento  
+
+---
+
+# BLOQUE 16 — Automatización
+
+## Núcleo
+
+- scripting
+- workflows
+- pipelines
+
+## Aplicaciones
+
+- eliminar trabajo manual  
+- construir sistemas autoejecutables  
+- integrar herramientas  
+- crear infra reproducible  
+
+---
+
+# BLOQUE 17 — Sistemas caóticos reales
+
+## Núcleo
+
+- sistemas no controlados
+- errores emergentes
+- interacciones inesperadas
+
+## Aplicaciones
+
+- debuggear sistemas complejos  
+- trabajar sin documentación  
+- reconstruir comportamiento desde logs  
+- intervenir en sistemas rotos  
+
+---
+
+# BLOQUE 18 — Construcción rápida (builder mode)
+
+## Núcleo
+
+- prototipado
+- iteración
+- simplificación
+
+## Aplicaciones
+
+- construir MVP en horas  
+- validar ideas rápidamente  
+- iterar con feedback  
+- refactorizar después  
+
+---
+
+# BLOQUE 19 — Integración total
+
+## Flujo completo
+
+idea → diseño → implementación → despliegue → observación → iteración  
+
+### Aplicaciones
+
+- construir sistema completo desde cero  
+- detectar y arreglar fallos en producción  
+- integrar múltiples capas (hardware + cloud)  
+- operar sistemas vivos  
+
+---
+
+# BLOQUE 20 — Proyectos (nivel experto)
+
+## Aplicaciones completas
+
+- construir sistema distribuido completo  
+- crear herramienta de análisis de red  
+- montar infraestructura cloud desde cero  
+- diseñar dispositivo IoT funcional  
+- auditar seguridad de sistema real  
+- hacer reverse engineering de software complejo  
+
+---
+
+# BLOQUE 21 — Señales de dominio real
+
+- puedes entrar en cualquier sistema y entenderlo  
+- puedes construir sin tutoriales  
+- debuggeas problemas no documentados  
+- piensas en sistemas, no en herramientas  
+- trabajas cómodo en incertidumbre  
+
+---
+
+# BLOQUE 22 — Estilo mental
+
+- curiosidad agresiva  
+- tolerancia al caos  
+- iteración constante  
+- pensamiento sistémico  
+- independencia de herramientas  
+
+---
+
+# BLOQUE 23 — Idea final
+
+El salto aquí es:
+
+- nivel bajo → “usar tecnología”  
+- nivel medio → “desarrollar sistemas”  
+- nivel alto →  
+
+> “entender, romper y construir cualquier sistema técnico desde sus fundamentos”
