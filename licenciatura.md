@@ -2,181 +2,174 @@
 
 ## Mis preferidas
 
-### Informatica (90) *2007-08* SOBRESALIENTE
+### Informatica (900h) *2007-08*
 
-programacion basica y pensamiento computacional (C)
+primer contacto serio con la programacion. trabajamos en C, entendiendo como traducir problemas a instrucciones precisas y como piensa una maquina. marco bastante mi forma de abordar problemas desde entonces.
 
-### Metodos Numericos (105) *2008-09* SOBRESALIENTE
+### Metodos Numericos (1050h) *2008-09*
 
-algoritmos para aproximar soluciones matematicas
+metodos para aproximar soluciones cuando no hay forma analitica clara. mezcla de matematica y computacion, muy orientado a construir soluciones practicas.
 
-### Calculo Diferencial (90) *2008-09* SOBRESALIENTE
+### Calculo Diferencial (900h) *2008-09*
 
-derivadas y cambio local de funciones
+una forma de entender el cambio local de las cosas. derivadas como herramienta para describir comportamiento fino de funciones y sistemas.
 
-### Elementos de Geometria Diferencial y Topologia (75) *2009-10* SOBRESALIENTE
+### Elementos de Geometria Diferencial y Topologia (750h) *2009-10*
 
-estructuras geometricas suaves y espacios continuos
+primer contacto con estructuras geometricas mas abstractas. espacios continuos, curvatura y la idea de que la forma importa mas que la medida.
 
-### Topologia de Variedades (75) *2011-12* SOBRESALIENTE
+### Topologia de Variedades (750h) *2011-12*
 
-estructura global de espacios curvos
+vision global de espacios curvos y estructuras complejas. aqui ya se empieza a ver la matematica como un lenguaje para describir formas generales.
 
-### Geometria Diferencial de Curvas y Superficies (75) *2009-10* NOTABLE
+### Geometria Diferencial de Curvas y Superficies (750h) *2009-10*
 
-curvatura y forma de objetos geometricos
+estudio detallado de la curvatura y la forma de objetos geometricos. bastante visual, pero con base analitica fuerte.
 
-### Topologia General (45) *2010-11* NOTABLE
+### Topologia General (450h) *2010-11*
 
-propiedades abstractas de continuidad y vecindad
+fundamentos abstractos de continuidad y proximidad. menos intuitivo al principio, pero clave para entender muchas otras areas.
 
 ---
 
 ## Enseñanza
 
-### Historia de las Matematicas I (75) *2009-10* SOBRESALIENTE
+### Historia de las Matematicas I (750h) *2009-10*
 
-evolucion historica de ideas matematicas
+recorrido por los origenes de ideas matematicas. ayuda a entender que las matematicas son construcciones humanas con contexto.
 
-### Historia de las Matematicas II (75) *2011-12* NOTABLE
+### Historia de las Matematicas II (750h) *2011-12*
 
-desarrollo moderno de las matematicas
+parte mas moderna, donde se ve como evolucionan los conceptos hacia estructuras mas abstractas.
 
-### Astronomia y Geodesia (75) *2010-11* NOTABLE
+### Astronomia y Geodesia (750h) *2010-11*
 
-medicion de la tierra y posicionamiento espacial
+aplicacion de matematicas a medir la tierra y posicionarse. conecta teoria con mundo fisico de forma bastante directa.
 
-### Metodologia Matematica (75) *2010-11* NOTABLE
+### Metodologia Matematica (750h) *2010-11*
 
-como enseñar y estructurar matematicas
+como estructurar y transmitir ideas matematicas. enfoque en explicacion, claridad y didactica.
 
-### Practicas de Enseñanza (150) *2011-12* SOBRESALIENTE
+### Practicas de Enseñanza (1500h) *2011-12*
 
-experiencia docente y didactica aplicada
+experiencia real enseñando. entender que saber algo y explicarlo bien son cosas distintas.
 
 ---
 
 ## Loved Later
 
-### Probabilidad y Estadistica (105) *2008-09* NOTABLE
+### Probabilidad y Estadistica (1050h) *2008-09*
 
-modelos de incertidumbre y analisis de datos
+introduccion a trabajar con incertidumbre. al principio mas mecanico, luego empieza a tener mucho sentido en contextos reales.
 
-### Geometria Proyectiva (90) *2008-09* NOTABLE
+### Geometria Proyectiva (900h) *2008-09*
 
-propiedades geometricas invariantes por proyeccion
+geometria donde importan las relaciones invariantes bajo proyeccion. bastante elegante conceptualmente.
 
-### Variable Compleja y Analisis Funcional (90) *2010-11* NOTABLE
+### Variable Compleja y Analisis Funcional (900h) *2010-11*
 
-funciones complejas y espacios funcionales
+funciones complejas y espacios de funciones. mezcla de intuicion geometrica y rigor analitico.
 
-### Teoria de la Medida (75) *2010-11* NOTABLE
+### Teoria de la Medida (750h) *2010-11*
 
-base formal de la integracion y probabilidad
+base formal de la integracion moderna y la probabilidad. abstracta, pero muy estructural.
 
-### Optimizacion Combinatoria y Teoria de Grafos (75) *2011-12* NOTABLE
+### Optimizacion Combinatoria y Teoria de Grafos (750h) *2011-12*
 
-problemas discretos y redes
+problemas discretos, redes y optimizacion. bastante cercano a problemas reales y computacionales.
 
-### Modelos de Gestion y Produccion (60) *2011-12* NOTABLE
+### Modelos de Gestion y Produccion (600h) *2011-12*
 
-modelizacion de procesos productivos
+uso de modelos matematicos en procesos productivos. enfoque mas aplicado y orientado a decision.
 
 ---
 
 ## Data & Information
 
-### Metodos Estadisticos (75) *2008-09* APROBADO
+### Metodos Estadisticos (750h) *2008-09*
 
-tecnicas practicas de analisis estadistico
+herramientas practicas para analizar datos. mas aplicado que teorico.
 
-### Investigacion Operativa (75) *2009-10* APROBADO
+### Investigacion Operativa (750h) *2009-10*
 
-optimizacion aplicada a decisiones
+modelos para tomar decisiones optimas bajo restricciones. bastante util en contextos reales.
 
-### Inferencia Estadistica (75) *2009-10* APROBADO
+### Inferencia Estadistica (750h) *2009-10*
 
-estimacion y contraste de hipotesis
-
-### Elementos de Ecuaciones Diferenciales y Variable Compleja (75) *2009-10* APROBADO
-
-dinamica de sistemas y funciones complejas
-
-### Analisis Numerico de Ecuaciones Diferenciales (90) *2011-12* APROBADO
-
-metodos computacionales para sistemas dinamicos
+como extraer conclusiones a partir de datos. estimacion y contraste de hipotesis.
 
 ---
+
 ## El tiempo de reflexionar...
 
-### Algebra Lineal y Geometria (180) *2007-08* APROBADO
+### Algebra Lineal y Geometria (1800h) *2007-08*
 
-espacios vectoriales y transformaciones lineales
+base importante: espacios vectoriales y transformaciones. mucho contenido condensado al inicio.
 
-### Analisis de Variable Real (180) *2007-08* APROBADO
+### Analisis de Variable Real (1800h) *2007-08*
 
-rigor del calculo en numeros reales
+fundamentos rigurosos del calculo. bastante exigente en formalismo.
 
-### Ecuaciones Diferenciales (90) *2010-11* APROBADO
+### Elementos de Ecuaciones Diferenciales y Variable Compleja (750h) *2009-10*
 
-modelos dinamicos continuos
+introduccion a sistemas dinamicos y funciones complejas.
 
-### Variedades Diferenciables en el Espacio Euclideo (60) *2010-11* APROBADO
+### Ecuaciones Diferenciales (900h) *2010-11*
 
-subespacios suaves en entorno euclideo
+modelos matematicos de evolucion en el tiempo. mas tecnico y procedimental.
 
-### Laboratorio de Matematicas (75) *2007-08* APROBADO
+### Variedades Diferenciables en el Espacio Euclideo (600h) *2010-11*
 
-practica guiada de conceptos matematicos
+subespacios suaves dentro de entornos conocidos. puente entre geometria intuitiva y abstracta.
+
+### Laboratorio de Matematicas (750h) *2007-08*
+
+practica guiada de conceptos. espacio para consolidar lo visto en teoria.
 
 ---
 
 ## Chevaux noirs
 
-### Algebra Basica (90) *2007-08* APROBADO
+### Algebra Basica (900h) *2007-08*
 
-estructuras algebraicas elementales
+introduccion a estructuras algebraicas. mas simbolico y menos intuitivo para mi.
 
-### Teoria Elemental de Numeros (75) *2009-10* APROBADO
+### Teoria Elemental de Numeros (750h) *2009-10*
 
-propiedades basicas de los numeros enteros
+propiedades de los enteros. interesante pero con un estilo distinto al resto.
 
-### Estructuras Algebraicas (90) *2010-11* APROBADO
+### Estructuras Algebraicas (900h) *2010-11*
 
-grupos anillos y cuerpos
+grupos, anillos y cuerpos. bastante abstracto y formal.
 
-### Geometria de Variedades Diferenciables (75) *2011-12* APROBADO
+### Geometria de Variedades Diferenciables (750h) *2011-12*
 
-propiedades geometricas de variedades
+continuacion mas formal de geometria. requiere bastante madurez matematica.
 
-### Calculo Integral (75) *2008-09* APROBADO
+### Calculo Integral (750h) *2008-09*
 
-integrales y acumulacion de cantidades
+tecnicas de integracion. mas mecanico que conceptual en comparacion con diferencial.
 
-### Topologia Algebraica (75) *2010-11* APROBADO
+### Topologia Algebraica (750h) *2010-11*
 
-uso de algebra para estudiar espacios
+uso de herramientas algebraicas para estudiar espacios. potente pero exigente.
 
+### Analisis Numerico de Ecuaciones Diferenciales (900h) *2011-12*
+
+metodos computacionales aplicados a sistemas dinamicos. mezcla compleja de teoria y practica.
 
 ---
 
 ## Transversalidad
 
-### Nuevas Tecnologias Sanitarias en Seguridad y Defensa (50) *2011-12* NOTABLE
+### Nuevas Tecnologias Sanitarias en Seguridad y Defensa (500h) *2011-12*
 
-tecnologia aplicada a salud y defensa
+introduccion a aplicaciones tecnologicas en salud y defensa. fuera del nucleo matematico.
 
-### Sanidad en Seguridad y Defensa (50) *2011-12* NOTABLE
+### Sanidad en Seguridad y Defensa (500h) *2011-12*
 
-organizacion sanitaria en contextos de seguridad
+organizacion sanitaria en contextos especiales. enfoque institucional y aplicado.
 
-### Estadistica Aplicada al Periodismo de Investigacion (45) *2010-11* SOBRESALIENTE
+### Estadistica Aplicada al Periodismo de Investigacion (450h) *2010-11*
 
-uso de datos en investigacion periodistica
-
----
-
-Si quieres, el siguiente paso natural sería comprimir esto en:
-
-* 4–5 líneas tipo **perfil profesional**
-* o convertirlo en una **landing narrativa potente** (muy alineado con Anemonautas)
+uso de datos en investigacion periodistica. interesante conexion con mundo real y comunicacion.
