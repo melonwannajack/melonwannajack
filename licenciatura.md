@@ -34,13 +34,21 @@ fundamentos abstractos de continuidad y proximidad. menos intuitivo al principio
 
 ## Enseñanza
 
+### Laboratorio de Matematicas (750h) *2007-08*
+
+practica guiada de conceptos. espacio para consolidar y formalizar los conocimientos matematicos.
+
 ### Historia de las Matematicas I (750h) *2009-10*
 
 recorrido por los origenes de ideas matematicas. ayuda a entender que las matematicas son construcciones humanas con contexto.
 
+### Teoria de Conjuntos (750h) *2011-12*
+
+fundamentos logicos de las matematicas. trabajo con axiomas, construcciones basicas y el lenguaje formal que sostiene todo lo demas.
+
 ### Historia de las Matematicas II (750h) *2011-12*
 
-parte mas moderna, donde se ve como evolucionan los conceptos hacia estructuras mas abstractas.
+parte mas moderna de la historia Matmatica, donde se ve y contextualiza como evolucionan los conceptos hacia estructuras mas abstractas.
 
 ### Astronomia y Geodesia (750h) *2010-11*
 
@@ -54,13 +62,14 @@ como estructurar y transmitir ideas matematicas. enfoque en explicacion, clarida
 
 experiencia real enseñando. entender que saber algo y explicarlo bien son cosas distintas.
 
+### Geometría elemental desde un punto de vista superior (75h) *2009-10*
+_Prof: Francisco Javier Gállego Rodrigo_
+
+relectura de la geometria clasica con herramientas mas avanzadas. reinterpretar conceptos conocidos desde una perspectiva mas estructural y abstracta, conectando intuicion con formalismo.
+
 ---
 
 ## Loved Later
-
-### Probabilidad y Estadistica (1050h) *2008-09*
-
-introduccion a trabajar con incertidumbre. al principio mas mecanico, luego empieza a tener mucho sentido en contextos reales.
 
 ### Geometria Proyectiva (900h) *2008-09*
 
@@ -86,6 +95,14 @@ uso de modelos matematicos en procesos productivos. enfoque mas aplicado y orien
 
 ## Data & Information
 
+### Probabilidad y Estadistica (1050h) *2008-09*
+
+introduccion a trabajar con incertidumbre. al principio mas mecanico, luego empieza a tener mucho sentido en contextos reales.
+
+### Estructuras de Datos y Algoritmos (1200h) 
+
+organizacion eficiente de la informacion y diseño de algoritmos. estructuras como listas, arboles o grafos y como afectan al rendimiento. bastante alineado con la forma de pensar computacional que ya habia empezado en informatica.
+
 ### Metodos Estadisticos (750h) *2008-09*
 
 herramientas practicas para analizar datos. mas aplicado que teorico.
@@ -102,13 +119,13 @@ como extraer conclusiones a partir de datos. estimacion y contraste de hipotesis
 
 ## El tiempo de reflexionar...
 
-### Algebra Lineal y Geometria (1800h) *2007-08*
-
-base importante: espacios vectoriales y transformaciones. mucho contenido condensado al inicio.
-
 ### Analisis de Variable Real (1800h) *2007-08*
 
 fundamentos rigurosos del calculo. bastante exigente en formalismo.
+
+### Algebra Lineal y Geometria (1800h) *2007-08*
+
+base importante: espacios vectoriales y transformaciones. mucho contenido condensado al inicio.
 
 ### Elementos de Ecuaciones Diferenciales y Variable Compleja (750h) *2009-10*
 
@@ -121,10 +138,6 @@ modelos matematicos de evolucion en el tiempo. mas tecnico y procedimental.
 ### Variedades Diferenciables en el Espacio Euclideo (600h) *2010-11*
 
 subespacios suaves dentro de entornos conocidos. puente entre geometria intuitiva y abstracta.
-
-### Laboratorio de Matematicas (750h) *2007-08*
-
-practica guiada de conceptos. espacio para consolidar lo visto en teoria.
 
 ---
 
@@ -146,21 +159,30 @@ grupos, anillos y cuerpos. bastante abstracto y formal.
 
 continuacion mas formal de geometria. requiere bastante madurez matematica.
 
+### Programación matemática II (750h) *2010-11* 
+
+tecncias de implementacion de investigacion operativa con ejemplos de aplicacion en empresa (Fortran)
+
 ### Calculo Integral (750h) *2008-09*
 
-tecnicas de integracion. mas mecanico que conceptual en comparacion con diferencial.
+tecnicas de integracion. mas mecanico que conceptual en comparacion con diferencial. (LaTeX)
 
 ### Topologia Algebraica (750h) *2010-11*
 
-uso de herramientas algebraicas para estudiar espacios. potente pero exigente.
+uso de herramientas algebraicas para estudiar espacios. potente pero exigente. (LaTeX)
 
 ### Analisis Numerico de Ecuaciones Diferenciales (900h) *2011-12*
 
 metodos computacionales aplicados a sistemas dinamicos. mezcla compleja de teoria y practica.
 
+
 ---
 
 ## Transversalidad
+
+### Delegacion de Alumnos de la Facultad *2009-11*
+
+### Presidente Club de Montana de Biologia *2008-11*
 
 ### Nuevas Tecnologias Sanitarias en Seguridad y Defensa (500h) *2011-12*
 
