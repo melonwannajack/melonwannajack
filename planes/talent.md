@@ -1,10 +1,6 @@
 # HRBP / Talent Partner — Plan de estudios vivo
 
 ## 0. Meta-capa: qué significa ser HRBP
-
-No es gestionar personas.
-Es poder:
-
 - entender cómo las personas producen valor en un sistema
 - diseñar estructuras de talento alineadas con estrategia
 - detectar fricciones humanas invisibles
