@@ -2,9 +2,6 @@
 
 ## 0. Meta-capa: qué significa saber ingeniería del software
 
-No es solo programar.
-Es poder:
-
 - modelar problemas
 - construir sistemas mantenibles
 - razonar sobre coste, complejidad y fallo
