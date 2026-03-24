@@ -1,4 +1,4 @@
-# Matemáticas — Full Stack (de 0 a fundamentos avanzados)
+# Matemáticas
 
 ## 0. Meta-capa: qué significa completar este recorrido
 
