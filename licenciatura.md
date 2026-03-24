@@ -127,7 +127,7 @@ metodos computacionales aplicados a sistemas dinamicos. mezcla compleja de teori
 
 ## El tiempo de reflexionar...
 
-### Analisis de Variable Real (1800h) *2007-08*
+### [Analisis de Variable Real](./materias/analisis-variable-real/overview.md) (1800h) *2007-08*
 
 fundamentos rigurosos del calculo. bastante exigente en formalismo.
 
