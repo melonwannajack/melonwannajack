@@ -42,7 +42,7 @@ practica guiada de conceptos. espacio para consolidar y formalizar los conocimie
 
 recorrido por los origenes de ideas matematicas. ayuda a entender que las matematicas son construcciones humanas con contexto.
 
-### Teoria de Conjuntos (750h) *2011-12*
+### [Teoria de Conjuntos](./materias/teoria-conjuntos/overview.md) (750h) *2011-12*
 
 fundamentos logicos de las matematicas. trabajo con axiomas, construcciones basicas y el lenguaje formal que sostiene todo lo demas.
 
