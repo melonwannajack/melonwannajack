@@ -93,7 +93,7 @@ uso de modelos matematicos en procesos productivos. enfoque mas aplicado y orien
 
 ---
 
-## Data & Information
+## Datos & Information
 
 ### Probabilidad y Estadistica (1050h) *2008-09*
 
@@ -105,15 +105,23 @@ organizacion eficiente de la informacion y diseño de algoritmos. estructuras co
 
 ### Metodos Estadisticos (750h) *2008-09*
 
-herramientas practicas para analizar datos. mas aplicado que teorico.
+herramientas practicas para analizar datos. Un enfoque teorico.
 
 ### Investigacion Operativa (750h) *2009-10*
 
-modelos para tomar decisiones optimas bajo restricciones. bastante util en contextos reales.
+modelos para tomar decisiones optimas bajo restricciones. Historia del Simplex.
+
+### Programación matemática II (750h) *2010-11* 
+
+tecnicas de implementacion de investigacion operativa con ejemplos de aplicacion en empresa (Fortran)
 
 ### Inferencia Estadistica (750h) *2009-10*
 
 como extraer conclusiones a partir de datos. estimacion y contraste de hipotesis.
+
+### Analisis Numerico de Ecuaciones Diferenciales (900h) *2011-12*
+
+metodos computacionales aplicados a sistemas dinamicos. mezcla compleja de teoria y practica.
 
 ---
 
@@ -141,7 +149,7 @@ subespacios suaves dentro de entornos conocidos. puente entre geometria intuitiv
 
 ---
 
-## Chevaux noirs
+## Mis _chevaux noirs_
 
 ### Algebra Basica (900h) *2007-08*
 
@@ -159,10 +167,6 @@ grupos, anillos y cuerpos. bastante abstracto y formal.
 
 continuacion mas formal de geometria. requiere bastante madurez matematica.
 
-### Programación matemática II (750h) *2010-11* 
-
-tecncias de implementacion de investigacion operativa con ejemplos de aplicacion en empresa (Fortran)
-
 ### Calculo Integral (750h) *2008-09*
 
 tecnicas de integracion. mas mecanico que conceptual en comparacion con diferencial. (LaTeX)
@@ -170,11 +174,6 @@ tecnicas de integracion. mas mecanico que conceptual en comparacion con diferenc
 ### Topologia Algebraica (750h) *2010-11*
 
 uso de herramientas algebraicas para estudiar espacios. potente pero exigente. (LaTeX)
-
-### Analisis Numerico de Ecuaciones Diferenciales (900h) *2011-12*
-
-metodos computacionales aplicados a sistemas dinamicos. mezcla compleja de teoria y practica.
-
 
 ---
 
