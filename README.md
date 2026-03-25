@@ -32,12 +32,12 @@ Ingeniero de IA freelance especializado en **Generative AI (GenAI), sistemas LLM
 
 ## Stack
 
-**AI / LLM:** OpenAI, Gemini, RAG, embeddings, vector search
-**Backend:** Python, FastAPI, APIs
-**Cloud:** GCP (BigQuery, Pub/Sub, Kubernetes)
-**Data:** PostgreSQL, BigQuery, Airflow, Spark
-**Frontend:** React, Next.js
-**Infra:** Docker, Terraform, CI/CD
+- **AI / LLM:** OpenAI, Gemini, RAG, embeddings, vector search
+- **Backend:** Python, FastAPI, APIs
+- **Cloud:** GCP (BigQuery, Pub/Sub, Kubernetes)
+- **Data:** PostgreSQL, BigQuery, Airflow, Spark
+- **Frontend:** React, Next.js
+- **Infra:** Docker, Terraform, CI/CD
 
 ## Experiencia relevante
 
